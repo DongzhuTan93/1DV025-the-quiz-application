@@ -1,0 +1,21 @@
+body {
+	background:wheat;
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color:steelblue;
+	font-size:5em;
+
+}
+
+.container .button {
+	margin-right:auto;
+	margin-left:auto;
+	padding: 60px;
+	width: 3em;
+
+}
